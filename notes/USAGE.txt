@@ -1,0 +1,3 @@
+/* rev-e8c31a-20260930 */
+USAGE.txt
+own SOTFS 1.03, extract zip, run ds2sc_launcher.exe
